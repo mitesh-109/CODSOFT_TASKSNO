@@ -1,0 +1,10 @@
+Task 1 – Titanic
+https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
+Raw URL used by script: https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+Task 3 – Iris
+Generated locally from scikit-learn's built-in Iris dataset; included as iris.csv.
+
+Task 4 – Advertising
+https://github.com/selva86/datasets/blob/master/Advertising.csv
+Raw URL used by script: https://raw.githubusercontent.com/selva86/datasets/master/Advertising.csv
